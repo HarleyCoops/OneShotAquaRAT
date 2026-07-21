@@ -79,7 +79,7 @@ packaging==25.0
 pandas==2.3.3
 parso==0.8.5
 partial-json-parser==0.2.1.1.post6
-pillow==12.2.0
+pillow==12.3.0
 pip==26.1.2
 platformdirs==4.5.0
 prometheus_client==0.23.1
