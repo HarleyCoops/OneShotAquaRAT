@@ -1,4 +1,4 @@
-accelerate==1.10.1
+accelerate==1.14.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.14.3
 aiosignal==1.4.0
@@ -142,7 +142,7 @@ typing-inspection==0.4.2
 tzdata==2025.2
 urllib3==2.7.0
 uvicorn==0.37.0
-vllm==0.26.0
+vllm==0.27.0
 wandb==0.22.2
 watchfiles==1.1.0
 wcwidth==0.2.14
