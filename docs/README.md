@@ -1,6 +1,6 @@
 # OneShotGRPO Documentation
 
-Welcome to the comprehensive documentation for OneShotGRPO! This guide will help you train, monitor, and deploy small language models using GRPO (Generative Reinforcement Policy Optimization).
+Welcome to the comprehensive documentation for OneShotGRPO! This guide will help you train, monitor, and deploy small language models using GRPO (Group Relative Policy Optimization).
 
 ##  Documentation Index
 
